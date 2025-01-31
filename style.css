@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-color: #fff0f6;
+  background: linear-gradient(135deg, #ff94c2, #f3c4d3, #f0a6cb); /* Gradiente de tonos rosados */
   font-family: "Protest Riot", sans-serif;
 }
 
