@@ -10,9 +10,9 @@ html {
 
 body {
   background: linear-gradient(135deg, rgba(255, 94, 194, 0.7), rgba(240, 166, 203, 0.7)), url('images/nubes-rositas.png');
-  background-size: cover;
-  background-position: center center;
-  font-family: "Protest Riot", sans-serif;
+  background-size: cover; /* Hace que la imagen cubra todo el fondo */
+  background-position: center center; /* Centra la imagen de fondo */
+  font-family: "Protest Riot", sans-serif; /* Fuente que estás utilizando */
 }
 
 .container {
