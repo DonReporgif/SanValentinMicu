@@ -9,7 +9,9 @@ html {
 }
 
 body {
-  background: linear-gradient(135deg, #ff94c2, #f3c4d3, #f0a6cb); /* Gradiente de tonos rosados */
+  background: linear-gradient(135deg, rgba(255, 94, 194, 0.7), rgba(240, 166, 203, 0.7)), url('images/nubes-rositas.png');
+  background-size: cover;
+  background-position: center center;
   font-family: "Protest Riot", sans-serif;
 }
 
